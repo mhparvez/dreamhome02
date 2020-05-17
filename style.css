@@ -65,6 +65,7 @@ font-family: sans-serif;
     font-family: sans-serif;
 }
 .home button{
+    margin-buttom:5px;
 width: 120px;
 height: 35px;
 border: none;
